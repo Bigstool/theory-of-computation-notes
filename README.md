@@ -1,6 +1,8 @@
-# INT201_Notes
+# theory-of-computation-notes
 
 Notes for the theory of computation (decision, computation, and language)
+
+![Banner](README_banner.jpg)
 
 ### Contents
 
@@ -33,4 +35,6 @@ Notes for the theory of computation (decision, computation, and language)
 `Complexity of Algorithms Notes.pdf` Notes in PDF format
 
 `Complexity of Algorithms Notes.pdf` Notes in PDF format; rearranged so that it can be printed into a booklet (left-binding, flips on the short edge)
+
+![Booklet](README_booklet.jpg)
 
